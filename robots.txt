@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ladlabaloch512-blip.github.io/haulerstrack-website/sitemap.xml
